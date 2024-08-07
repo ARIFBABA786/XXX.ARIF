@@ -4,6 +4,7 @@ module.exports.config = {
 	hasPermssion: 1,
 	credits: "PREM BABU",
 	description: "THIS BOT IS MADE BY PREM BABU",
+usePrefix: true,
 	commandCategory: "LEVAL UP",
 	dependencies: {
 		"fs-extra": ""
